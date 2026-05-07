@@ -1,1 +1,2 @@
-Hello, Git! ALex Wang
+Hello, Git! ALex
+Hi,Git!
